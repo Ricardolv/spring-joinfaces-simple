@@ -1,0 +1,14 @@
+# Port
+server:
+  port: 9000
+
+# Joinfaces
+joinfaces:
+  jsf:
+    PROJECT_STAGE: Development
+  primefaces:
+    theme: bootstrap
+
+spring:
+  thymeleaf:
+    enabled: false
